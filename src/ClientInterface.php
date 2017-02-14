@@ -26,7 +26,7 @@ interface ClientInterface
     
     /**
      * Connect client
-     * 
+     *
      * @throws Exception\RuntimeException
      */
     public function connect();
