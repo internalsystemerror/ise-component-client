@@ -2,7 +2,7 @@
 
 namespace Ise\Client;
 
-abstract class AbstractClient extends ClientInterface
+abstract class AbstractClient implements ClientInterface
 {
 
     /**
