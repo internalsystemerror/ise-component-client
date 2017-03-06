@@ -7,8 +7,7 @@
         "php": "^5.6 || ^7.0"
     },
     "require-dev": {
-        "ise/php-metapackage-development": "^1.0"
-    },
+        "ise/php-metapackage-development": "dev-develop",
     "autoload": {
         "psr-4": {
             "Ise\\Client\\": "src"
